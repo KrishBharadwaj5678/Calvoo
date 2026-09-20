@@ -1,5 +1,6 @@
-// Gsap
+// GSAP
 let t = gsap.timeline();
+
 let input = document.querySelector("input.input_box");
 let audio = new Audio();
 
